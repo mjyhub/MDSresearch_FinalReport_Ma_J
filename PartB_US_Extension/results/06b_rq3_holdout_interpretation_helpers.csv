@@ -1,0 +1,10 @@
+sample,quantity,value,n
+full_sample,Australia mandate OR,6.971492431967638,72594
+full_sample,US vs Australia interaction OR,0.21083039790397165,72594
+full_sample,US implied mandate OR,1.4698025234162642,72594
+training_sample,Australia mandate OR,7.007368338924982,58075
+training_sample,US vs Australia interaction OR,0.20635470986329646,58075
+training_sample,US implied mandate OR,1.4460034604841143,58075
+testing_sample,Australia mandate OR,6.917550168661646,14519
+testing_sample,US vs Australia interaction OR,0.22709926039244951,14519
+testing_sample,US implied mandate OR,1.5709705270307242,14519

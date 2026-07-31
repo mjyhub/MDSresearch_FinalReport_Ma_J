@@ -1,0 +1,3 @@
+Model,Test AUC,Test accuracy
+RQ2: US model,0.79,0.75
+RQ3: AUS-US model,0.81,0.75

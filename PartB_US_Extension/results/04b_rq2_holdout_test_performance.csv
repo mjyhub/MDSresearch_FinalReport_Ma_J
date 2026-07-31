@@ -1,0 +1,6 @@
+metric,value
+test_auc,0.7907650384628453
+test_accuracy,0.7482811306340718
+training_n,20940.0
+testing_n,5236.0
+full_n,26176.0

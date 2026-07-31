@@ -1,0 +1,10 @@
+Sample,Term,OR,95% CI,p-value,N
+Full sample,Mandate period,6.97,6.57-7.39,<0.001,"72,594"
+Full sample,US country indicator,4.85,4.5-5.22,<0.001,"72,594"
+Full sample,Mandate period x US,0.21,0.19-0.23,<0.001,"72,594"
+Training sample,Mandate period,7.01,6.56-7.48,<0.001,"58,075"
+Training sample,US country indicator,4.95,4.56-5.39,<0.001,"58,075"
+Training sample,Mandate period x US,0.21,0.19-0.23,<0.001,"58,075"
+Testing sample,Mandate period,6.92,6.06-7.9,<0.001,"14,519"
+Testing sample,US country indicator,4.48,3.79-5.3,<0.001,"14,519"
+Testing sample,Mandate period x US,0.23,0.19-0.27,<0.001,"14,519"

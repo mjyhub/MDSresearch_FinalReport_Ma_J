@@ -1,0 +1,4 @@
+Sample,OR,95% CI,p-value,N
+Full sample,1.68,1.54-1.84,<0.001,"26,176"
+Training sample,1.66,1.51-1.83,<0.001,"20,940"
+Testing sample,1.8,1.48-2.19,<0.001,"5,236"
