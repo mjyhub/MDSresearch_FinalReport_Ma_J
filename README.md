@@ -21,6 +21,19 @@ The main project materials are stored in the `PartB_US_Extension` folder:
 - `raw_data/`: original data files used to construct the analysis datasets.
 - `results/`: generated figures, tables and statistical model outputs.
 
+- 
+## Figures used in the final report
+
+The following figures were generated for and included in the final report:
+
+| File | Description |
+|---|---|
+| `design_overview_4.pdf` | Presents the analytical framework and overall workflow of the study. |
+| `02_state_level_descriptive_comparison.png` | Compares changes in high mask-wearing rates across US states before and during sustained mask mandate periods. |
+| `04c_rq2_holdout_or_forest_plot.png` | Presents the odds ratio estimates and confidence intervals from the RQ2 hold-out robustness analysis. |
+| `06c_rq3_holdout_interaction_forest_plot.png` | Presents the interaction estimates and confidence intervals from the RQ3 Australia–US hold-out robustness analysis. |
+
+These figures were generated using the analysis scripts provided in the `code` folder.
 
 ## Analysis workflow
 
